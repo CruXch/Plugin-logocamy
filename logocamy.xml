@@ -1,0 +1,55 @@
+<root>
+   <name>logocamy</name>
+   <key>logocamy</key>
+   <!-- stable, beta, development, alpha, ... -->
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/pluginsGLPI/logocamy/main/logocamy.png</logo>
+   <description>
+      <short>
+         <!-- Add as many lang tag you want -->
+         <en>logocamy GLPI plugin</en>
+         <fr>Plugin GLPI logocamy</fr>
+      </short>
+      <long>
+         <!-- Add as many lang tag you want -->
+         <en>A long description for logocamy GLPI plugin.</en>
+         <fr>Une description longue pour le plugin GLPI logocamy.</fr>
+      </long>
+   </description>
+   <homepage>https://github.com/pluginsGLPI/logocamy</homepage>
+   <download>https://github.com/pluginsGLPI/logocamy/releases</download>
+   <issues>https://github.com/pluginsGLPI/logocamy/issues</issues>
+   <readme>https://github.com/pluginsGLPI/logocamy/blob/main/README.md</readme>
+   <authors>
+      <!-- Add as many author tag you want -->
+      <author>David Fernando Pérez Ortiz'</author>
+   </authors>
+   <versions>
+      <!-- Add as many version tag you want -->
+      <version>
+         <num>0.0.1</num>
+         <!-- Add as many compatibility tag you want -->
+         <compatibility>~11.0.0</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <!-- Add as many lang tag you want -->
+      <lang>en_GB</lang>
+      <lang>fr_FR</lang>
+   </langs>
+   <license>MIT</license>
+   <!--tags>
+      <en>
+         <tag>One tag</tag>
+         <tag>Another tag</tag>
+      </en>
+      <fr>
+         <tag>Un tag</tag>
+         <tag>Un autre tag</tag>
+      </fr>
+   </tags-->
+   <!--screenshots>
+      <screenshot>https://github.com/pluginsGLPI/logocamy/raw/main/screenshot.png</screenshot>
+      <screenshot>https://github.com/pluginsGLPI/logocamy/raw/main/screenshot2.png</screenshot>
+   </screenshots-->
+</root>
